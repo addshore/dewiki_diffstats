@@ -1,4 +1,6 @@
-Source of data
+Both a PHP and Python script for creating a CSV from the dewiki_diffstats logging created by the below patches.
+
+Relevant Patches
 
 https://github.com/wikimedia/mediawiki-extensions-WikimediaEvents/commit/184e9008c4648422848e162a775211c1a7f3d37c
 
